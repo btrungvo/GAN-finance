@@ -1,7 +1,7 @@
 # Project name
 [Erdős Institute](https://www.erdosinstitute.org/) [Deep Learning Boot Camp](https://www.erdosinstitute.org/programs/spring-2024/deep-learning), Spring 2024.
 
-## Team Members:
+## Team Members: To-dos: add linkedlin links
 - [Dapeng Shang]()
 - [Hy Lam]()
 - [Manaswinee Bezbaruah]()
