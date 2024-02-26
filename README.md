@@ -1,21 +1,25 @@
 # Project name
 [Erdős Institute](https://www.erdosinstitute.org/) [Deep Learning Boot Camp](https://www.erdosinstitute.org/programs/spring-2024/deep-learning), Spring 2024.
 
-## Team Members:
-- [Dapeng Shang]()
-- [Hy Lam]()
-- [Manaswinee Bezbaruah]()
+# Team Members: 
+> [!IMPORTANT]
+> Add Linkedin profiles link
+- [Dapeng Shang](https://www.linkedin.com/in/dapeng-shang-654316105/)
+- [Hy Lam](https://www.linkedin.com/in/hy-p-g-lam-26531b1a6/)
+- [Manaswinee Bezbaruah](https://www.linkedin.com/in/mansibez/)
 - [Ming Zhang]()
 - [Trung Vo](https://www.linkedin.com/in/btrungvo/)
 
-# Project Description
+## Project Description
 
-# Data Access
+## Datasets
 
-# Model and Data Details
+## Model
 
-# Dependencies
+## Dependencies
 
-# Inferrer
+## Inferrer
 
-# References
+## Future Plan
+
+## References
