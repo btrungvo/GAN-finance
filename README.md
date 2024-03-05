@@ -1,4 +1,4 @@
-# [Place holder]Project name
+# GAN Finance
 [Erdős Institute](https://www.erdosinstitute.org/) [Deep Learning Boot Camp](https://www.erdosinstitute.org/programs/spring-2024/deep-learning), Spring 2024.
 
 # Team Members: 
