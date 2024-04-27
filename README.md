@@ -5,9 +5,7 @@
 > [!IMPORTANT]
 > Add Linkedin profiles link
 - [Dapeng Shang](https://www.linkedin.com/in/dapeng-shang-654316105/)
-- [Hy Lam](https://www.linkedin.com/in/hy-p-g-lam-26531b1a6/)
-- [Manaswinee Bezbaruah](https://www.linkedin.com/in/mansibez/)
-- [Ming Zhang]()
+- [Ming Zhang](https://github.com/zhangming09)
 - [Trung Vo](https://www.linkedin.com/in/btrungvo/)
 
 ## Project Description
